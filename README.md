@@ -16,6 +16,7 @@ Pressing c will put you in command mode. Here you can change the settings and th
 * front-img x - change the windowed image to the image specified
 * v on - turns on vignette
 * v off - turns off vignette
+* se x - changes search engine (Brave, Google, DuckDuckGo)
 
 ## Search mode
 Pressing s will put you in search mode, which allows you to search the internet based off your input in the terminal bar
