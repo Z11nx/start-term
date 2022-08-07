@@ -8,6 +8,6 @@ A customizable terminal-like UI for web searches
 
 Start-term is similar to vim in that you can change modes in the terminal
 
--"c" = command mode
--"s" = search mode
--"l" = link mode
+1. "c" = command mode
+2. "s" = search mode
+3. "l" = link mode
