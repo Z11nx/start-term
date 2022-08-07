@@ -2,4 +2,4 @@
 A customizable terminal-like UI for web searches
 
 ## Images
-![example_1](pictures/example_page.png?raw=true "page example")
+![example_1](pictures/example_page.PNG?raw=true "page example")
